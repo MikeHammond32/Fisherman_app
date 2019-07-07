@@ -1,0 +1,2 @@
+class Fisherman < ApplicationRecord
+end
